@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.book.bookstoreonline.service.BookServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.832 s <<< FAILURE! -- in com.book.bookstoreonline.service.BookServiceTest
+com.book.bookstoreonline.service.BookServiceTest.shouldReturnListOfBooKTest -- Time elapsed: 0.809 s <<< ERROR!
+org.mockito.exceptions.misusing.UnnecessaryStubbingException: 
+
+Unnecessary stubbings detected.
+Clean & maintainable test code requires zero unnecessary code.
+Following stubbings are unnecessary (click to navigate to relevant line of code):
+  1. -> at com.book.bookstoreonline.service.BookServiceTest.shouldReturnListOfBooKTest(BookServiceTest.java:35)
+  2. -> at com.book.bookstoreonline.service.BookServiceTest.shouldReturnListOfBooKTest(BookServiceTest.java:36)
+Please remove unnecessary stubbings or use 'lenient' strictness. More info: javadoc for UnnecessaryStubbingException class.
+	at org.mockito.junit.jupiter.MockitoExtension.afterEach(MockitoExtension.java:197)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

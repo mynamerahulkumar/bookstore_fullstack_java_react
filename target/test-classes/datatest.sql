@@ -1,0 +1,1 @@
+insert into book(id,title,description,release_year) values(UUID(),'Python','Python Programming',2019);

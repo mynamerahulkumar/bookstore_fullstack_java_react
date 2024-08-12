@@ -1,0 +1,4 @@
+com\book\bookstoreonline\BookstoreonlineApplicationTests.class
+com\book\bookstoreonline\controller\BookControllerTest.class
+com\book\bookstoreonline\service\BookServiceTest.class
+com\book\bookstoreonline\repository\BookRepositoryTest.class

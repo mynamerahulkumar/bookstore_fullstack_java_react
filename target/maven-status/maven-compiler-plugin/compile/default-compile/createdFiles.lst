@@ -1,0 +1,12 @@
+com\book\bookstoreonline\dtos\BookDTO$BookDTOBuilder.class
+com\book\bookstoreonline\BookstoreonlineApplication.class
+com\book\bookstoreonline\service\BookService.class
+com\book\bookstoreonline\utils\loops\TestFor.class
+com\book\bookstoreonline\leetcode75\string\StringCompression.class
+com\book\bookstoreonline\utils\SimplifyPath74Ms.class
+com\book\bookstoreonline\dtos\BookDTO.class
+com\book\bookstoreonline\model\Book$BookBuilder.class
+com\book\bookstoreonline\repository\BookRepository.class
+com\book\bookstoreonline\model\Book.class
+com\book\bookstoreonline\controllers\BookController.class
+com\book\bookstoreonline\utils\Vehicle.class
